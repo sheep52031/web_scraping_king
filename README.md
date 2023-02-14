@@ -11,7 +11,11 @@ Crawl the latest news through RSS analysis and web crawlers, and use the jieba p
 
     
 
-    
+## bi_analysis
+<div align="left">
+<img src=https://storage.googleapis.com/github_sheep52031/web_scraping_king/BI_bicycle.png width=100% />
+<div>
+
     
 ## scraping_104
 Using the bs4 package and web crawling technique to parse the job requirements for job titles containing keywords on a job website.
