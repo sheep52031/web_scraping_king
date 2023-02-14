@@ -10,7 +10,6 @@ Crawl the latest news through RSS analysis and web crawlers, and use the jieba p
 <div>
 
     
-<div align="right">
 
     
     
