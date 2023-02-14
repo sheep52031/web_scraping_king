@@ -1,0 +1,16 @@
+# general kit
+requests
+pandas
+
+
+
+# scraping_104
+bs4
+
+
+# textmining_worldcloud_udn
+feedparser
+jieba
+lxml
+wordcloud
+matplotlib
