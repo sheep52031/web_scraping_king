@@ -1,0 +1,5 @@
+selenium==4.8.0
+bs4
+chromedriver-py
+xlsxwriter
+pandas
